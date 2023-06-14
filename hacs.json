@@ -1,5 +1,5 @@
 {
-    "name": "北京用电信息查询",
+    "name": "北京用电信息查询充电桩",
     "domains": ["sensor"],
     "render_readme": true
 }
